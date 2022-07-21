@@ -1,0 +1,21 @@
+
+<button class="e-control e-btn" style="position: absolute;margin-top: 25px;margin-left: 15px;"
+
+(click)="onOpenDialog($event)">Open Dialog
+
+</button>
+
+<div id="container">
+  <ejs-dialog #dialogcomponent height="25%" width="435px" content="This is an Angular Dialog component"
+  
+  header="Dialog" [buttons]="dialogButton" [showCloseIcon]="closeIcon" 
+  
+  [visible]="dialogVisibility" [position]="dialogPosition" allowDragging='true'
+  
+  enableResize='true' [resizeHandles]="dialogResizeDirections" 
+  
+  [animationSettings]="dialogAnimationSettings" isModal='true'>
+
+  </ejs-dialog>
+
+</div>
