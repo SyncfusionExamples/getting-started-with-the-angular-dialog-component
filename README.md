@@ -1,10 +1,6 @@
 # Getting Started with the Angular Dialog Component  
 
-A quick start project that shows how to add Angular Dialog component to the Angular CLI project and bind local and remote data sources to it. This project also includes a code snippet to drag, resize and position the dialog, create an overlay behind the dialog, and render the dialog using an HTML button element.
-
-Examples: https://ej2.syncfusion.com/angular/demos/#/material/dialog/default 
-
-Documentation: https://ej2.syncfusion.com/angular/documentation/dialog/getting-started/
+The [Angular Dialog](https://www.syncfusion.com/angular-components/angular-modal-dialog?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples) is a useful user interface (UI) component for informing users about critical information, errors, warnings, and questions, as well as confirming decisions and collecting input from users. A quick start project that shows how to add Angular Dialog component to the Angular CLI project and bind local and remote data sources to it. This project also includes a code snippet to drag, resize and position the dialog, create an overlay behind the dialog, and render the dialog using an HTML button element.
 
 # Project pre-requisites
 
@@ -34,3 +30,61 @@ npm install
 
 Run ng serve command for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
+## Features and benefits
+
+### Draggable
+
+The Angular modal dialog can be moved anywhere in a page by dragging its header, which is performed by using the Draggable library.
+
+### Overlays
+
+Angular Modal dialogs create overlays on open modal windows that provide options for a user to control the closing behavior of a dialog while interacting with it.
+
+### Additional dialogs
+
+Users can launch multiple dialogs simultaneously or one above the other based on their z-index (z-depth) to make additional dialogs (nested modal dialogs).
+
+### Animation
+
+A variety of smooth, built-in animations are available to configure for the opening and closing of modal dialogs. They perform based on CSS3 animation from the Animation library.
+
+### Resizable
+
+The Angular modal dialog can be resized from any of the edges or borders of the dialog within the target container by using its handle (grip) or hovering on it.
+
+## Related links
+
+[Learn More about Angular Dialog](https://www.syncfusion.com/angular-components/angular-modal-dialog?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples)
+
+[Download Free Trial](https://www.syncfusion.com/downloads/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples)
+
+[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples)
+
+[Documentation](https://ej2.syncfusion.com/angular/documentation/dialog/getting-started?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples)
+
+[View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-angular-dialog-component?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples)
+
+[Community Forums](https://www.syncfusion.com/forums/angular-js2?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples)
+
+[Suggest a feature or report a bug](https://www.syncfusion.com/feedback/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples)
+
+[Online example](https://ej2.syncfusion.com/demos/#/bootstrap5/dialog/default.html?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples)
+
+[Video Tutorials](https://www.syncfusion.com/tutorial-videos/angular/dialog?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples)
+
+## About Syncfusion Angular UI Components
+
+Syncfusion's [Angular UI Components](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples) library is the only suite that you will ever need to build an application since it contains over 80 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to Modal Dialog, we provide popular Angular Components such as [DataGrid](https://www.syncfusion.com/angular-components/angular-grid?utm_source=github&utm_medium=listing&utm_campaign=model-dialog-github-samples), [Charts](https://www.syncfusion.com/angular-components/angular-charts?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [Scheduler](https://www.syncfusion.com/angular-components/angular-scheduler?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [Diagram](https://www.syncfusion.com/angular-components/angular-diagram?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), and [Word Processor](https://www.syncfusion.com/angular-components/angular-word-processor?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples).
+
+
+### About Syncfusion
+
+Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 29,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
+
+Today, we provide 1800+ components and frameworks for web ([Blazor](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [ASP.NET Core](https://www.syncfusion.com/aspnet-core-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [ASP.NET MVC](https://www.syncfusion.com/aspnet-mvc-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [ASP.NET WebForms](https://www.syncfusion.com/jquery/aspnet-webforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [Angular](https://www.syncfusion.com/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [React](https://www.syncfusion.com/react-components?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [Vue](https://www.syncfusion.com/vue-components?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), and [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples)), mobile ([Xamarin](https://www.syncfusion.com/xamarin-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [JavaScript](https://www.syncfusion.com/javascript-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), and [.NET MAUI](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples)), and desktop development ([WinForms](https://www.syncfusion.com/winforms-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [WPF](https://www.syncfusion.com/wpf-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [WinUI](https://www.syncfusion.com/winui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [Flutter](https://www.syncfusion.com/flutter-widgets?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), [UWP](https://www.syncfusion.com/uwp-ui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples), and [.NET MAUI](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples)). We provide ready-to-deploy enterprise software for dashboards, reports, data integration, and big data processing. Many customers have saved millions in licensing fees by deploying our software.
+
+<hr style="height:0.3px;border:none;color:lightgrey;background-color:lightgrey;" />
+
+<p align="center">
+<a href="mailto:sales@syncfusion.com?Subject=Syncfusion Angular Modal Dialog - GitHub" target="_top">sales@syncfusion.com</a> | <a href="https://www.syncfusion.com?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples)">www.syncfusion.com</a> | Toll Free: 1-888-9 DOTNET <br>
+</p>
