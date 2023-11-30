@@ -46,11 +46,11 @@ Users can launch multiple dialogs simultaneously or one above the other based on
 
 ### Animation
 
-A variety of smooth, built-in animations are available to configure for the opening and closing of modal dialogs. They perform based on CSS3 animation from the Animation library.
+A variety of smooth, built-in [animations](https://ej2.syncfusion.com/angular/documentation/dialog/animation?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples) are available to configure for the opening and closing of modal dialogs. They perform based on CSS3 animation from the Animation library.
 
 ### Resizable
 
-The Angular modal dialog can be resized from any of the edges or borders of the dialog within the target container by using its handle (grip) or hovering on it.
+The Angular modal dialog can be [resized](https://ej2.syncfusion.com/angular/documentation/dialog/resize?utm_source=github&utm_medium=listing&utm_campaign=angular-modal-dialog-github-samples) from any of the edges or borders of the dialog within the target container by using its handle (grip) or hovering on it.
 
 ## Related links
 
